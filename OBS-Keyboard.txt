@@ -1,0 +1,13 @@
+HID\VID_1A2C&PID_4224&REV_0110&MI_00
+
+ Numberpad Shortcuts set to Control+Alt+1-9
+Num1 C-A-1
+Num2 C-A-2
+Num3 C-A-3
+Num4 C-A-4
+Num5 C-A-5
+Num6 C-A-6
+Num7 C-A-7
+Num8 C-A-8
+Num9 C-A-9
+Backspace C-A-Backspace
