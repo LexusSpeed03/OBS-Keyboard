@@ -1,6 +1,9 @@
 # OBS-Keyboard
 OBS Keyboard is used to remap a 10 key pad to control aspects of OBS or other software. This will not affect your original keyboard only the secondary.
 
+# Purchase Keyboard / 10 Keypad
+You can purchase a wireless 10 Keypad or another keyboard to use. It is highly recommended you purchase a different model than what you own now to avoid conflicts.
+
 # Installing Keyboard Interception
 1. Once you have extracted OBS-Keyboard.zip you need to first open cmd.exe as Administrator.  
 2. Type install-inception.exe /install  
