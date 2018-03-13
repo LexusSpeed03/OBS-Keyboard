@@ -65,3 +65,5 @@ Service Name: OBS-Keyboard
 I do not take credit for all of this just the configuration and using information gathered from the internet. The full article for this can be found below here  
 
 http://www.2112design.com/blog/multi-keyboard-remapper/
+
+This project is based on http://www.oblita.com/interception.html with many thanks to Francisco Lopes for the amazing job he did figuring out all he windows internals. His package does all the magic shit, I just put a control application and config format together.
