@@ -40,9 +40,26 @@ Num7 C-A-7
 Num8 C-A-8  
 Num9 C-A-9  
 
+# Configure to Autostart  
+1. Open cmd.exe as Administrator  
+2. Type nssm.exe install  
+3. Please fill in the following information  
+
+Application  
+Path: C:\Directory of Extract Zip\remapper.exe  
+Startup Directory: Automatically Fills  
+Arguments: C:\Directory of Extracted Zip\OBS-Keyboard.txt  
+Service Name: OBS-Keyboard  
+
+4. Once you have performed this click Install Service.  
+5. You will now have a remapped 10 Keypad when this service is running. You can verify this by doing WindowsKey+R on keyboard and typing services.msc  
+6. In this list you will see OBS-Keyboard. Make sure you right click and hit start. Please make sure to right click the service and go to properties and make it Automatically start.  
+
+
 # OBS Setup
 1. You would set Hotkeys in OBS to your corresponding hotkeys for example if you want Num1 to be Live scene you would do CTRL+ALT+1
 2. If you press Num1 on your normal keyboard it wouldn't affect anything.
+
 
 # Information
 I do not take credit for all of this just the configuration and using information gathered from the internet. The full article for this can be found below here  
